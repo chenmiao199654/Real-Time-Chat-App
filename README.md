@@ -8,8 +8,6 @@ The Real-Time Chat Application is a web-based messaging platform that allows use
 - **User Authentication**: Supports user authentication to ensure secure access to the chat platform.
 - **Multiple Rooms**: Allows users to create and join different chat rooms, facilitating discussions on various topics.
 - **User Presence Indicators**: Displays indicators to show when users are online or typing messages in real-time.
-- **Responsive Design**: Offers a responsive and intuitive user interface that adapts to different screen sizes and devices.
-- **Customizable Themes**: Provides options for users to customize their chat experience with different themes and styles.
 
 ## Technologies Used
 - **Express.js**: A web application framework for Node.js used for building the backend server and handling HTTP requests.
