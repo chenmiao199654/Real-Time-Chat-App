@@ -41,9 +41,6 @@ To run the Real-Time Chat Application locally, follow these steps:
    ```
 6. Access the application in your web browser at `http://localhost:3500`.
 
-## Deployment
-The Real-Time Chat Application can be deployed to various hosting platforms such as Heroku, Netlify, or AWS. Ensure that you configure the backend server to handle WebSocket connections and set up proper CORS policies if the frontend and backend are hosted on different domains.
-
 ## Future Enhancements
 - **File Sharing**: Allow users to share files such as images, documents, and videos within chat rooms.
 - **Encryption**: Implement end-to-end encryption for secure messaging and data privacy.
@@ -51,8 +48,3 @@ The Real-Time Chat Application can be deployed to various hosting platforms such
 - **Notifications**: Implement push notifications for new messages and mentions to keep users informed.
 - **Moderation Tools**: Provide tools for administrators to manage users, monitor conversations, and enforce community guidelines.
 
-## Contributing
-Contributions to the Real-Time Chat Application are welcome! Feel free to submit bug reports, feature requests, or pull requests to help improve the project. Please follow the project's code of conduct and contribution guidelines when contributing.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
