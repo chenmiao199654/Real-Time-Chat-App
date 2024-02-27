@@ -115,11 +115,11 @@ select {
 }
 
 .post__header--user {
-  background-color: blue;
+  background-color: darkblue;
 }
 
 .post__header--reply {
-  background-color: purple;
+  background-color: black;
 }
 
 .post__header--name {
